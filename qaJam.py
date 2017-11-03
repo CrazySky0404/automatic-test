@@ -105,8 +105,6 @@ def main():
         time.sleep(3)
         print(i)
 
-
-#dfdf
     '''
 
     for elem in mydriver.find_elements_by_xpath('//div[@class = "one-item-wrap"]'):
