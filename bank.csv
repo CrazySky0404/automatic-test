@@ -1,3 +1,3 @@
-COUNTRYCODE, COUNTRYNAME, LENDPROJECTCOST
-ET, Federal Democratic Republic of Ethiopia, 550000000.0
-TN, Republic of Tunisia, 5700000.0
+COUNTRY, GDP (BILLIONS), CODE
+Federal Democratic Republic of Ethiopia, 550000000.0, ET
+Republic of Tunisia, 5700000.0, TN
