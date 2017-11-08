@@ -1,18 +1,18 @@
-COUNTRY,GDP (BILLIONS),CODE
-Afghanistan,55.0,AFG
-Albania,57.0,ALB
-Algeria,227.80,DZA
-American Samoa,0.75,ASM
-Andorra,4.80,AND
-Angola,131.40,AGO
-Anguilla,0.18,AIA
-Antigua and Barbuda,1.24,ATG
-Argentina,536.20,ARG
-Armenia,10.88,ARM
-Aruba,2.52,ABW
-Australia,1483.00,AUS
-Austria,436.10,AUT
-Azerbaijan,77.91,AZE
-"Bahamas, The",8.65,BHM
-Bahrain,34.05,BHR
-Bangladesh,186.60,BGD
+COUNTRY,GDP (BILLIONS)
+Afghanistan,55.0
+Albania,57.0
+Algeria,227.80
+American Samoa,0.75
+Andorra,4.80
+Angola,131.40
+Anguilla,0.18
+Antigua and Barbuda,1.24
+Argentina,536.20
+Armenia,10.88
+Aruba,2.52
+Australia,1483.00
+Austria,436.10
+Azerbaijan,77.91
+"Bahamas, The",8.65
+Bahrain,34.05
+Bangladesh,186.60
